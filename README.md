@@ -4,6 +4,12 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate full stack developer. Love to learn new things.</h3>
 
+<p align="center">
+  <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Web+Developer;%20Enthusiast;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+
+
 <img align="right" alt="Coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav0702&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav0702" /> </p>
@@ -12,7 +18,7 @@
 
 - 📫 How to reach me **vaibhavginnalwar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhavginnalw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavginnalw1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhav-ginnalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-ginnalwar" height="30" width="40" /></a>
@@ -28,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibhav0702" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav0702&show_icons=true&locale=en&theme=tokyonight" alt="vaibhav0702" /></p>
+<p>&nbsp;<img align="left" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vaibhav0702&show_icons=true&locale=en&theme=tokyonight" alt="vaibhav0702" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav0702&&theme=tokyonight" alt="vaibhav0702" /></p>
+<p><img align="right" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav0702&&theme=tokyonight" alt="vaibhav0702" /></p>
 
