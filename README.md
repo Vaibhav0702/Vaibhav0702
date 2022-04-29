@@ -52,9 +52,9 @@
         height="25px" />
 
 </p>
-<hr/>
+
 ![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vaibhav0702&&theme=xcode)
-<hr/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibhav0702" /></p>
 
 <p>
