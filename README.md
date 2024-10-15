@@ -2,7 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">A passionate full stack developer. Love to learn new things.</h3>
+<h3 align="center"> Analytical and detail-oriented Full-Stack Web Developer with expertise in Angular, React, Zustand, Redux, JavaScript, FabricJS,
+MongoDB, and Node.js. Skilled in project management, team collaboration, and time management. Passionate about coding
+and contributing to product-oriented organizations, dedicated to producing production-ready code and delivering successful
+cross-functional projects. 
+</h3>
 
 <p align="center">
   <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Web+Developer;%20Enthusiast;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
