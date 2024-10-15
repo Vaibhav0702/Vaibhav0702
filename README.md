@@ -46,9 +46,6 @@
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 
-
-
-
 </p>
 
 <p align="center" margin="5px" > 
@@ -57,13 +54,14 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibhav0702" /></p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibhav0702" />
+
 
 <p>
-
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vaibhav0702&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=vaibhav0702&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-
-
-  </p>
+<img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=vaibhav0702&show_icons=true&theme=tokyonight" />
+<img width="49.5%" height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=vaibhav0702&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+</p>
 
