@@ -53,6 +53,12 @@
 
 ![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vaibhav0702&&theme=xcode)
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhav0702" alt="vaibhav0702" />
+  </a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibhav0702" /></p>
 
 <p>
