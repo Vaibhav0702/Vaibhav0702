@@ -32,6 +32,7 @@
 
 <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB" alt="angular" /> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+<img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="typescript" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
         height="25px" />
 <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=zustand&logoColor=61DAFB" alt="zustand" />
