@@ -51,7 +51,7 @@
 
 </p>
 
-<p align="center" gap="2px> 
+<p align="center" margin="5px" > 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vaibhav0702" alt="vaibhav0702" />
   </a>
